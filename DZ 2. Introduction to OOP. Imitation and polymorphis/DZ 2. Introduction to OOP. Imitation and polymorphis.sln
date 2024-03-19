@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1 Create first class", "HW1 Create first class\HW1 Create first class.csproj", "{E2833CC7-618D-4B77-9520-7200790462B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ripka", "Ripka\Ripka.csproj", "{5A6A6A1E-9A28-4498-BE35-A6A8C8650198}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E2833CC7-618D-4B77-9520-7200790462B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2833CC7-618D-4B77-9520-7200790462B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2833CC7-618D-4B77-9520-7200790462B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2833CC7-618D-4B77-9520-7200790462B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6A6A1E-9A28-4498-BE35-A6A8C8650198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6A6A1E-9A28-4498-BE35-A6A8C8650198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6A6A1E-9A28-4498-BE35-A6A8C8650198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6A6A1E-9A28-4498-BE35-A6A8C8650198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {79F92CEE-D32C-43D3-B80C-E367DF7B2271}
+		SolutionGuid = {38659F6F-020D-4DFD-82BC-19BDED7138DF}
 	EndGlobalSection
 EndGlobal
